@@ -1,0 +1,27 @@
+Skirt Steak,34,lb
+Pasta,14,oz
+2% Cottage Cheese,31,gram
+Milk,31,gram
+Low Fat Mozzarella,33,gram
+Parmesean,33,gram
+Bell Pepper,1,pepper
+Onion,1,onion
+Refried Beans,11,can
+Rice,10,oz
+Tomato Bouillon,11,spice
+Ground Beef,34,lb
+Taco Seasoning,9,packet
+Red Enchilada Sauce,11,gram
+Non-Fat Greek Yogurt,31,oz
+Salsa con Queso,27,can
+Pico de Gallo,1,can
+Lettuce,1,bag
+Cheddar Powder,9,gram
+Cheedar Cheese,33,gram
+Nutritional Yeast,16,gram
+Chicken Thighs,34,oz
+Ranch Seasoning,7,packet
+Paprika,17,spice
+Green Onion,1,clump
+Center Cut Bacon,33,slices
+Ranch,7,gram

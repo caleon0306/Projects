@@ -1,0 +1,32 @@
+import Items
+"""
+#variables for Items
+
+skirtSteak = Items.Item("Skirt Steak", 34,"lb")
+pasta = Items.Item("Pasta", 14,"oz")
+cottageCheese = Items.Item("2% Cottage Cheese", 31,"gram")
+milk = Items.Item("Milk", 31,"gram")
+mozzarella = Items.Item("Low Fat Mozzarella", 33,"gram")
+parmesean = Items.Item("Parmesean", 33,"gram")
+bellPepper = Items.Item("Bell Pepper", 1,"pepper")
+onion = Items.Item("Onion", 1,"onion")
+refriedBeans = Items.Item("Refried Beans", 11,"can")
+rice = Items.Item("Rice", 10,"oz")
+tomatoBouillon = Items.Item("Tomato Bouillon", 11,"spice")
+groundBeef = Items.Item("Ground Beef", 34,"lb")
+tacoSeasoning = Items.Item("Taco Seasoning", 9,"packet")
+redEnchiladaSauce = Items.Item("Red Enchilada Sauce", 11,"gram")
+nonFatGreekYogurt = Items.Item("Non-Fat Greek Yogurt", 31,"oz")
+salsaConQueso = Items.Item("Salsa con Queso", 27,"can")
+pico = Items.Item("Pico de Gallo", 1,"can")
+lettuce = Items.Item("Lettuce", 1,"bag")
+cheddarPowder = Items.Item("Cheddar Powder", 9,"gram")
+cheddarCheese = Items.Item("Cheedar Cheese", 33,"gram")
+yeast = Items.Item("Nutritional Yeast", 16,"gram")
+chickenThighs = Items.Item("Chicken Thighs",34,"oz")
+ranchSeasoning = Items.Item("Ranch Seasoning",7, "packet")
+paprika = Items.Item("Paprika", 17,"spice")
+greenOnion = Items.Item("Green Onion", 1, "clump")
+centerBacon = Items.Item("Center Cut Bacon", 33, "slices")
+ranch = Items.Item("Ranch",7,"gram")
+"""

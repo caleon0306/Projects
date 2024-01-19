@@ -1,0 +1,43 @@
+Cheesesteak Pasta
+Skirt Steak,32
+Pasta,32
+2% Cottage Cheese,1000
+Milk,300
+Low Fat Mozzarella,80
+Parmesean,90
+Bell Pepper,3
+Onion,1
+
+Taco Bowl
+Refried Beans,2
+Rice,14
+Tomato Bouillon,2
+Ground Beef,2
+Taco Seasoning,2
+Red Enchilada Sauce,283
+Non-Fat Greek Yogurt,2
+Salsa con Queso,1
+Pico de Gallo,1
+Lettuce,1
+
+Taco Mac n Cheese
+Bell Pepper,2
+Onion,1
+Ground Beef,2
+Taco Seasoning,2
+Red Enchilada Sauce,100
+Pasta,23
+2% Cottage Cheese,700
+Cheddar Powder,50
+Cheddar Cheese,100
+Nutritional Yeast,20
+Milk,100
+
+Chicken Bacon Ranch Fried Rice
+Chicken Thighs,56
+Ranch Seasoning,2
+Paprika,2
+Green Onion,1
+Center Cut Bacon,24
+Rice,22
+Ranch,17
