@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/inputName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Name" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/inputAge"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Age" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <RadioGroup
+                android:id="@+id/radioGroupEditGender"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditMale"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Male" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditFemale"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Female" />
+            </RadioGroup>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/inputHeight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Height (inches)" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/inputWeight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Weight (lbs)" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Activity Level" />
+
+            <RadioGroup
+                android:id="@+id/radioGroupEditActivity"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditActivity1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sedentary" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditActivity2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Light Activity" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditActivity3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Moderate Activity" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditActivity4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Very Active" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditActivity5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Extreme Activity" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Weight Goal" />
+
+            <RadioGroup
+                android:id="@+id/radioGroupEditGoal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditGoal1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lose Fast" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditGoal2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lose Slow" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditGoal3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Maintain" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditGoal4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gain Slow" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonEditGoal5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gain Fast" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/buttonUpdateAccount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Info" />
+
+            <Button
+                android:id="@+id/buttonGoToHome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Home" />
+
+            <TextView
+                android:id="@+id/textViewResult"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
