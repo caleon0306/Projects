@@ -7,6 +7,6 @@ The personal projects include the intended purpose and description of the projec
 
 [Android Calorie App](https://github.com/caleon0306/CalorieCounterAndroidApp)
 
-**Sleeper Project**
+**Sleeper API Project**
 
 [Sleeper  Project](https://github.com/caleon0306/Sleeper)
